@@ -1,6 +1,14 @@
 Changelog
 =========
 
+* 2.2.1
+  * Fix plugin name
+* 2.2.0
+  * Backport #57 fix to 2.next branch (cake4) by @jay-eventrac in #58
+* 2.0.3
+  * Fix ConstStrategy for associations queries without record
+* 2.0.1
+  * Constant Strategy Improvements
 * 2.0.0 CakePHP 4.x support
 
 * 1.2.0
